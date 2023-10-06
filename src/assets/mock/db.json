@@ -4,49 +4,57 @@
       "id": 1,
       "conteudo": "Que bom que você veio",
       "autoria": "Minha",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Que bom que você veio",
       "autoria": "Minha",
-      "modelo": "modelo1"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Que bom que você veio",
       "autoria": "Minha",
-      "modelo": "modelo3"
+      "modelo": "modelo5",
+      "favorito": false
     },
     {
       "conteudo": "Curso CRUD básico finalizado em Angular",
       "autoria": "Daniel Hernandez",
       "modelo": "modelo3",
-      "id": 4
+      "id": 4,
+      "favorito": false
     },
     {
       "conteudo": "Narutinho é legal",
       "autoria": "shippuden",
       "modelo": "modelo2",
-      "id": 6
+      "id": 6,
+      "favorito": false
     },
     {
       "conteudo": "Narutinho é legal",
       "autoria": "shippuden",
       "modelo": "modelo2",
-      "id": 7
+      "id": 7,
+      "favorito": false
     },
     {
       "conteudo": "Narutinho é legal",
       "autoria": "shippuden",
       "modelo": "modelo2",
-      "id": 8
+      "id": 8,
+      "favorito": false
     },
     {
       "conteudo": "Narutinho é legal",
       "autoria": "shippuden",
       "modelo": "modelo2",
-      "id": 9
+      "id": 9,
+      "favorito": false
     }
   ]
 }
